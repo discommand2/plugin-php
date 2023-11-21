@@ -1,2 +1,2 @@
-# plugin-template
-A starter template for developing new plugins, ensuring consistency and ease of development.
+# plugin-php
+Exposes PHP functions, enabling custom script execution.
